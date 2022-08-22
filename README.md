@@ -11,5 +11,4 @@
  <p>
    O Desafio 6 do módulo 1 de HTML e CSS foi proposto no capítulo 10 da aula 4. A atividade é recriar um perfil social do Gustavo Guanabara. <br> Eis o resultado:
  </p>
- 
- <p> O exemplo dado: <br> <img src=""
+<p align="left">Exemplo dado: <br> <img src="desafio6/assets/imagem_2022-08-22_182554480.png"> <p></p> Resultado: <br> <img src="desafio6/assets/imagem_2022-08-22_182638795.png"> </p>
