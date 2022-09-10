@@ -6,7 +6,7 @@
 <p>
   Todos os desafios propostos pelo Gustavo Guanabara do Curso em Vídeo para reforçar os assuntos citados nas aulas de HTML e CSS - Módulo 1.
  </p>
-<br>
+
 ### Desafio 1 - Desafio das Mensagens
 <p> O desafio é criar um código HTML que use apenas parágrafos e quebra de linhas </p>
 
